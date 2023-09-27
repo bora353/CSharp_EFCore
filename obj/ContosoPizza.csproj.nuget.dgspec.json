@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ge.lee\\source\\repos\\mslearn-persist-data-ef-core\\ContosoPizza\\ContosoPizza.csproj": {}
+    "C:\\Users\\ge.lee\\Desktop\\CSharp_EFCore.git\\ContosoPizza.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ge.lee\\source\\repos\\mslearn-persist-data-ef-core\\ContosoPizza\\ContosoPizza.csproj": {
+    "C:\\Users\\ge.lee\\Desktop\\CSharp_EFCore.git\\ContosoPizza.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ge.lee\\source\\repos\\mslearn-persist-data-ef-core\\ContosoPizza\\ContosoPizza.csproj",
+        "projectUniqueName": "C:\\Users\\ge.lee\\Desktop\\CSharp_EFCore.git\\ContosoPizza.csproj",
         "projectName": "ContosoPizza",
-        "projectPath": "C:\\Users\\ge.lee\\source\\repos\\mslearn-persist-data-ef-core\\ContosoPizza\\ContosoPizza.csproj",
+        "projectPath": "C:\\Users\\ge.lee\\Desktop\\CSharp_EFCore.git\\ContosoPizza.csproj",
         "packagesPath": "C:\\Users\\ge.lee\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ge.lee\\source\\repos\\mslearn-persist-data-ef-core\\ContosoPizza\\obj\\",
+        "outputPath": "C:\\Users\\ge.lee\\Desktop\\CSharp_EFCore.git\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ge.lee\\AppData\\Roaming\\NuGet\\NuGet.Config",
